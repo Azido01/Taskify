@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Abdulazeez\\Desktop\\Taskify\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{648BABD3-FC8F-497D-A543-6480A5E93CE3}|Taskify\\Taskify.csproj|c:\\users\\abdulazeez\\desktop\\taskify\\taskify\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648BABD3-FC8F-497D-A543-6480A5E93CE3}|Taskify\\Taskify.csproj|solutionrelative:taskify\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648BABD3-FC8F-497D-A543-6480A5E93CE3}|Taskify\\Taskify.csproj|c:\\users\\abdulazeez\\desktop\\taskify\\taskify\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648BABD3-FC8F-497D-A543-6480A5E93CE3}|Taskify\\Taskify.csproj|solutionrelative:taskify\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648BABD3-FC8F-497D-A543-6480A5E93CE3}|Taskify\\Taskify.csproj|c:\\users\\abdulazeez\\desktop\\taskify\\taskify\\controllers\\taskifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648BABD3-FC8F-497D-A543-6480A5E93CE3}|Taskify\\Taskify.csproj|solutionrelative:taskify\\controllers\\taskifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{648BABD3-FC8F-497D-A543-6480A5E93CE3}|Taskify\\Taskify.csproj|c:\\users\\abdulazeez\\desktop\\taskify\\taskify\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{648BABD3-FC8F-497D-A543-6480A5E93CE3}|Taskify\\Taskify.csproj|solutionrelative:taskify\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskifyController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulazeez\\Desktop\\Taskify\\Taskify\\Controllers\\TaskifyController.cs",
+              "RelativeDocumentMoniker": "Taskify\\Controllers\\TaskifyController.cs",
+              "ToolTip": "C:\\Users\\Abdulazeez\\Desktop\\Taskify\\Taskify\\Controllers\\TaskifyController.cs",
+              "RelativeToolTip": "Taskify\\Controllers\\TaskifyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T00:30:49.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulazeez\\Desktop\\Taskify\\Taskify\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Taskify\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Abdulazeez\\Desktop\\Taskify\\Taskify\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Taskify\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:46:02.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Abdulazeez\\Desktop\\Taskify\\Taskify\\Models\\User.cs",
               "RelativeDocumentMoniker": "Taskify\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Abdulazeez\\Desktop\\Taskify\\Taskify\\Models\\User.cs",
               "RelativeToolTip": "Taskify\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T16:39:39.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulazeez\\Desktop\\Taskify\\Taskify\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Taskify\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Abdulazeez\\Desktop\\Taskify\\Taskify\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Taskify\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:11:38.822Z",
               "EditorCaption": ""
             }
           ]
